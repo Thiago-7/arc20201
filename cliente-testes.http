@@ -8,9 +8,9 @@ Accept: application/json
 {
     "medida": "ideia",
     "marcadores": [
-        {"local": "quarto"},
-        {"personagem": "Lola"},
-        {"acao": "curiosa"}
+        {"local": "cemiterio"},
+        {"personagem": "Joaquim"},
+        {"acao": "Vasculhando"}
     ],
     "valores": [
         {"latitude": -27.6084177},
@@ -18,6 +18,8 @@ Accept: application/json
         {"altitude": 80}
     ]
 }
+
+# ideia,local=cemiterio,personagem=Joaquim,acao=Vasculhando latitude=-27.6084177,longitude=-48.6354691,altitude=80
 
 ###
 
